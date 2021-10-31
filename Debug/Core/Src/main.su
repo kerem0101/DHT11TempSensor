@@ -1,0 +1,9 @@
+main.c:74:5:main	16	static
+main.c:135:6:SystemClock_Config	80	static
+main.c:173:13:MX_TIM6_Init	8	static
+main.c:203:13:MX_USART2_UART_Init	8	static
+main.c:238:13:MX_GPIO_Init	56	static
+main.c:277:6:delay_us	24	static
+main.c:284:6:set_gpio_mode	48	static
+main.c:304:9:dht11_read	80	static
+main.c:380:6:Error_Handler	8	static,ignoring_inline_asm
